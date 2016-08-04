@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-This is a blog. This is blog is currently just for test purposes and contains no content.
+This is a blog. It is currently just for test purposes and contains no content.
