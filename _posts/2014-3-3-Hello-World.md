@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Test Post
+title: HDR Photography
 ---
 
-This is a post!
+
